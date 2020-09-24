@@ -22,7 +22,7 @@ ogr2ogr -f GeoJSON -s_srs EPSG:5367 -t_srs EPSG:4326 -makevalid cantones.geojson
 # Información sobre la capa descargada
 ogrinfo -al -so cantones.geojson
 ```
-Utilice el comando ```ogr2ogr``` y el archivo "cantones.geojson" para realizar los siguientes ejercicios:
+Utilice el comando ```ogr2ogr``` y el archivo "cantones.geojson" para realizar los siguientes ejercicios. El valor porcentual de cada uno se muestra entre paréntesis.
 
 1. (25%) Extraiga en un shapefile los cantones de la provincia de Heredia con área menor o igual que 20 km2.
 2. (25%) Extraiga en un archivo GeoPackage los campos de provincia, cantón y área de los cantones de la provincia de San José con área menor o igual que 20 km2.
