@@ -9,7 +9,7 @@ Debe enviarle al profesor por correo electrónico un archivo de texto con los co
 **ESTA TAREA ES PARA REALIZARSE EN FORMA INDIVIDUAL**.
 
 ### Objetivos
-Aplicar [utilitarios de línea de comandos de la biblioteca GDAL](https://gdal.org/programs/).
+Aplicar [utilitarios de línea de comandos de GDAL](https://gdal.org/programs/).
 
 ### Desarrollo
 Se recomienda ejecutar estos comandos en un ambiente Conda que contenga el paquete GDAL.
