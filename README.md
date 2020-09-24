@@ -29,3 +29,5 @@ Utilice el comando ```ogr2ogr``` y el archivo "cantones.geojson" para realizar l
 2. (25%) Extraiga en un archivo GeoPackage los campos de provincia, cantón y área de los cantones de la provincia de San José con área menor o igual que 20 km2.
 3. (25%) Extraiga en un archivo KML los campos de provincia, cantón y área de los cantones con área menor o igual que 20 km2 de las provincia de San José o de Heredia.
 4. (25%) Extraiga en un archivo GeoJSON los campos de provincia, cantón y área de los cantones con área menor o igual que 20 km2 de la provincia de San José o con área mayor o igual que 2000 km2 de la provincia de Limón.
+
+Debe enviarle al profesor por correo electrónico un archivo de texto con los comandos utilizados en los ejercicios del 1 al 4.
