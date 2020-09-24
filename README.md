@@ -14,7 +14,7 @@ Aplicar [utilitarios de línea de comandos de GDAL](https://gdal.org/programs/).
 ### Desarrollo
 Se recomienda ejecutar estos comandos en un ambiente Conda que contenga el paquete GDAL.
 
-0. Descargue la capa de cantones del Sistema Nacional de Información Territorial (SNIT, [https://www.snitcr.go.cr/](https://www.snitcr.go.cr/)) en un archivo GeoJSON llamado "cantones.geojson": 
+Descargue la capa de cantones del Sistema Nacional de Información Territorial (SNIT, [https://www.snitcr.go.cr/](https://www.snitcr.go.cr/)) en un archivo GeoJSON llamado "cantones.geojson": 
 
 ```shell
 # Descarga de la capa de cantones del IGN en el SNIT
